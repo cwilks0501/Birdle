@@ -11,7 +11,6 @@
 body {
     background-color: rgb(233,226,188);
 }
-/*LOGO STUF*/
 #logophoto {
 position: relative;
 left: 500px;
@@ -36,7 +35,6 @@ header {
     top: -10px;
 }
 
-/*Footer*/
 footer{ 
     position: relative;
     background-color: rgb(198,58,50);
@@ -49,7 +47,7 @@ footer{
     position: relative;
     color: black;
 }
-/*bottom tags*/
+
 #about {
     position: relative;
     left: 200px;
@@ -69,7 +67,7 @@ footer{
     top: -170px;
 
 }
-/*buttons*/
+
 #play {
     position: relative;
     font-size: 50px;
@@ -100,3 +98,59 @@ footer{
     width: 70px;
     height: 30px;
 }
+
+#moreinfologo {
+    color: rgb(198,58,50);
+    position: relative;
+    left: 500px;
+    top: -270px;
+    font-size: 150px;
+
+}
+
+#moreinfologopic {
+    position: relative;
+left: 300px;
+top: 20px;;
+height: 200px;
+width: 200px;
+}
+
+#logowordrules {
+    color: rgb(198,58,50);
+    position: relative;
+    left: 500px;
+    top: -270px;
+    font-size: 150px;
+}
+
+#about2 {
+    position: relative;
+    left: 200px;
+
+}
+
+#high2 {
+    position: relative;
+    left: 800px;
+    top: -150px;
+}
+
+#more2 {
+    position: relative;
+    left: 1400px;
+    top: -290px;
+
+}
+
+#lower {
+    position: relative;
+    top: 600px;
+}
+
+#creditspage {
+    position: relative;
+    left: 800px;
+    top: 10px;
+}
+
